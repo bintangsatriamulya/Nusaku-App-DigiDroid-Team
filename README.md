@@ -1,4 +1,4 @@
-# nusaku
+# Nusaku App - By DigiDroid Team
 
 A new Flutter project.
 
