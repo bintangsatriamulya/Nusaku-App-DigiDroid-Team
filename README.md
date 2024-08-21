@@ -1,6 +1,6 @@
 # Nusaku App - By DigiDroid Team
 
-A new Flutter project.
+Project Tugas Akhir
 
 ## Getting Started
 
